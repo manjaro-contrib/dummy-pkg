@@ -1,6 +1,6 @@
 pkgname=dummy-pkg
 pkgver=1.0.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Smoke-test package for the manjaro-contrib build pipeline"
 arch=('x86_64')
 license=('MIT')
